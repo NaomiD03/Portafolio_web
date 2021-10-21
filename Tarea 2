@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>YouTube</h1>
+    <h1>Esta plataforma utiliza varios lenguajes, entre ellos está: C, C++, Python, Java, Go. Esta plataforma se originó en San Mateo, California, Estados Unidos en el 2005. YouTube usa un reproductor en línea basado en HTML5, que incorporó poco después de que la W3C lo presentara y que es soportado por los navegadores web más difundidos. Antiguamente su reproductor funcionaba con Adobe Flash, pero esta herramienta fue desechada en 2016.</h1>
+    <h1>Uber</h1>
+    <h1>Esta plataforma al igual que la anterior utiliza varios lenguajes, como pueden ser: Node.js, Python, Go, Java y Scala. Es originario de San Francisco, California, Estados Unidos, y se lanzó en el 2009. Trabajan con MySql y PostgreSql como bases de datos, con una plétora de servicios para gestionar su información, en la parte móvil utilizan un sistema sin estado que provee los servicios a través de una API</h1>
+    <h1>TikTok</h1>
+    <h1>Esta programado con Python, C, Java y Swift. Se lanzó en 2016 en China. Las stacks de tecnología de TikTok incluyen: Swift para el desarrollo de aplicaciones iOS, Kotlin para el desarrollo de aplicaciones de Android, Arquitectura en la nube impulsada por Amazon Web Services y Azure, Node.js para el desarrollo de backend, Gestión de bases de datos por SQL, MongoDB o Cassandra, Azure Stream Analytics para análisis en tiempo real, Notificaciones respaldadas por Google Cloud Messaging y Apple Push Notifications</h1>
+</body>
+</html>
